@@ -2,7 +2,7 @@
 title: "Smile"
 category: info
 
-docname: draft-smile-rfc-latest
+docname: draft-smile-rfc
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
